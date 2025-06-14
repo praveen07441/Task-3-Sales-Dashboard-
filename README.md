@@ -1,17 +1,17 @@
 # Task-3-Sales-Dashboard-
-Worked on a financial sales dataset.
+1.Worked on a financial sales dataset.
 
-Transformed and cleaned the data.
+2.Transformed and cleaned the data.
 
-Calculated total revenue.
+3.Calculated total revenue.
 
-Calculated average revenue.
+4.Calculated average revenue.
 
-Identified the total number of countries.
+5.Identified the total number of countries.
 
-Created visualizations for revenue data.
+6.Created visualizations for revenue data.
 
-Compared revenue across different countries.
+7.Compared revenue across different countries.
 
-Created a final interactive dashboard to present insights.
+8.Created a final interactive dashboard to present insights.
 
